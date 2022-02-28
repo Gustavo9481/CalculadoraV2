@@ -1,6 +1,6 @@
 from tkinter import *
 
-
+# inicio de proyecto calculadora
 
 ventana = Tk()
 ventana.title('Calculadora V2 - Gustavo Colmenares')
